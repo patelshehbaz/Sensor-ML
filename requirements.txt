@@ -13,4 +13,6 @@ seaborn
 numpy
 statistics
 catboost
+fastapi
+uvicorn
 -e .   #editable mode 
